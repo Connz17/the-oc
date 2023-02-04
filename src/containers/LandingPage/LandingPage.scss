@@ -1,0 +1,18 @@
+.landing-title{
+    display: flex;
+    justify-content: center;
+}
+
+.heart-duo{
+    
+}
+
+.landing-button{
+    width: 10rem;
+    height: auto;
+    cursor: pointer;
+
+    &:hover{
+        width: 15rem;
+    }
+}
