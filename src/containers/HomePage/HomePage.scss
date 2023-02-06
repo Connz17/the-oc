@@ -1,5 +1,22 @@
-.home{
-    width: 100%;
-    height: 100%;
+.home_intro{
+    margin: 3rem 10rem;
+    text-align: justify;
+}
+
+.home__verse{
+    margin: auto;
+    width: 70%;
+    height: 35rem;
     background: linear-gradient(128deg, rgba(19,96,236,0.75) 20%, rgba(255,165,0,0.75) 70%);
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.verse__image{
+    border-radius: 25px;
+    height: 30rem;
+    width: auto;
+    //margin: auto;
 }
