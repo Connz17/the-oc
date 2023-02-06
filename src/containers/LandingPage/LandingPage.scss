@@ -1,16 +1,27 @@
+.landing-logo{
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+}
+
 .landing-title{
     display: flex;
     justify-content: center;
 }
 
 .heart-duo{
-    
+    display: flex;
+    justify-content: center;
+
+    &__image{
+        font-size: 3rem;
+    }
 }
 
 .landing-button{
     width: 10rem;
     height: auto;
     cursor: pointer;
+    margin: 2.5rem;
 
     &:hover{
         width: 15rem;
