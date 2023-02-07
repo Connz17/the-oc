@@ -19,8 +19,8 @@ const HomePage = () => {
         <div className="home__verse">
             <img className="verse__image" src={verse} alt=""></img>
         </div>
-        
-        <h1>
+        <br />
+        <h1 className="home_outro">
         &#128420; I want you to always be my honeybun...so from today...will you
         be my girlfriend? &#128155;
         </h1>

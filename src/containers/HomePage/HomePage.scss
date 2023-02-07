@@ -1,15 +1,15 @@
 .home_intro{
     padding-top: 3rem;
-    margin: 0rem 10rem 3rem 10rem;
+    margin: 0rem 20rem 3rem 20rem;
     text-align: justify;
 }
 
 .home__verse{
     margin: auto;
-    width: 50%;
-    height: 33rem;
+    width: 40%;
+    height: 22rem;
     background: linear-gradient(128deg, rgba(19,96,236,0.75) 20%, rgba(255,165,0,0.75) 70%);
-    border-radius: 40px;
+    border-radius: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -17,6 +17,12 @@
 
 .verse__image{
     border-radius: 25px;
-    height: 25rem;
+    height: 20rem;
     width: auto;
+    box-shadow: 13px 11px 7px;
+}
+
+.home_outro{
+    margin: 0rem 17rem 0rem 17rem;
+    text-align: justify;
 }
