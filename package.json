@@ -1,7 +1,7 @@
 {
   "name": "the-oc-app",
   "version": "0.1.0",
-  "homepage": "https://Connz17.github.io/the-oc",
+  "homepage": "https://Connz17.github.io/the-oc-site",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
