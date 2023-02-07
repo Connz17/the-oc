@@ -15,11 +15,11 @@ const HomePage = () => {
         not just for a moment in my life, but for the rest of it... Now when I think
         about my future, all I see is you in it.
         </h2>
-        <br />
+        
         <div className="home__verse">
             <img className="verse__image" src={verse} alt=""></img>
         </div>
-        <br />
+        
         <h1>
         &#128420; I want you to always be my honeybun...so from today...will you
         be my girlfriend? &#128155;
