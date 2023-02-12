@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/the-oc-site/static/css/main.015782a3.css",
+    "main.css": "/the-oc-site/static/css/main.f3278085.css",
     "main.js": "/the-oc-site/static/js/main.a7cddc62.js",
     "static/js/787.c202baad.chunk.js": "/the-oc-site/static/js/787.c202baad.chunk.js",
     "static/media/Home.png": "/the-oc-site/static/media/Home.78877f8d0c32d21d7883.png",
@@ -8,12 +8,12 @@
     "static/media/verse galaxy.jpg": "/the-oc-site/static/media/verse galaxy.782530ebf91ca2fa8fd8.jpg",
     "static/media/OC_logo (linked).png": "/the-oc-site/static/media/OC_logo (linked).4e7c755640594354a3e7.png",
     "index.html": "/the-oc-site/index.html",
-    "main.015782a3.css.map": "/the-oc-site/static/css/main.015782a3.css.map",
+    "main.f3278085.css.map": "/the-oc-site/static/css/main.f3278085.css.map",
     "main.a7cddc62.js.map": "/the-oc-site/static/js/main.a7cddc62.js.map",
     "787.c202baad.chunk.js.map": "/the-oc-site/static/js/787.c202baad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.015782a3.css",
+    "static/css/main.f3278085.css",
     "static/js/main.a7cddc62.js"
   ]
 }
